@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:SASINDUNADEEJA01@GMAIL.COM"><img src="https://img.shields.io/badge/Email-it26100935%40my.sliit.lk-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:SASINDUNADEEJA01@GMAIL.COM"><img src="https://img.shields.io/badge/Email-SASINDUNADEEJA01%40GMAIL.COM-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <!-- TODO: uncomment once the portfolio / LinkedIn are live
   <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-Visit-111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
