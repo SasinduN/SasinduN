@@ -16,7 +16,7 @@
 
 ### 🚀 About me
 
-- 🎓 First-year IT student at Sri Lanka Institute of Information Technology
+- 🎓 IT undergraduate student at Sri Lanka Institute of Information Technology
 - 🔭 Currently building **Teyvat** — a website for a Sri Lanka inbound tour operator, with a 4-person team
 - 🌱 Learning: React Native / Expo, Supabase, TypeScript
 - 💡 I like turning ideas into things people actually use — from travel sites to gamified fitness apps
